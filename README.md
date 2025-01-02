@@ -5,11 +5,13 @@
 
 - 👯 I’m looking to collaborate on **Full stack Projects**
 
-- 💬 Ask me about **Java,SpringBoot,React.js**
+- 💬 Ask me about **Java, SpringBoot, React.js**
 
 - 📫 How to reach me **omdalbhanjan001@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1cAqFFBPfVSM4nLnlyMNvGICknOR2IDEW/view?usp=sharing](https://drive.google.com/file/d/1cAqFFBPfVSM4nLnlyMNvGICknOR2IDEW/view?usp=sharing)
+
+- 🌐 Check out my portfolio **[https://omdalbhanjan.netlify.app/](https://your-portfolio-link.com)**
 
 - ⚡ Fun fact **I'm a calisthenics athlete who loves to code and a professional badminton player smashing bugs and shuttles alike!**
 
@@ -27,4 +29,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dalbhanjan-om&show_icons=true&locale=en&layout=compact" alt="dalbhanjan-om" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dalbhanjan-om&" alt="dalbhanjan-om" /></p>
-
