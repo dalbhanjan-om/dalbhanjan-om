@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1cAqFFBPfVSM4nLnlyMNvGICknOR2IDEW/view?usp=sharing](https://drive.google.com/file/d/1cAqFFBPfVSM4nLnlyMNvGICknOR2IDEW/view?usp=sharing)
 
-- 🌐 Check out my portfolio **[https://omdalbhanjan.netlify.app/](https://your-portfolio-link.com)**
+- 🌐 Check out my portfolio **[https://omdalbhanjan.netlify.app/](https://omdalbhanjan.netlify.app/)**
 
 - ⚡ Fun fact **I'm a calisthenics athlete who loves to code and a professional badminton player smashing bugs and shuttles alike!**
 
